@@ -1,2 +1,2 @@
-# livroEntendendoAlgoritmos
-Códigos utilizados durante o livro Entendendo Algoritmos
+# Entendendo Algoritmos
+Códigos utilizados durante a leitura do livro Entendendo Algoritmos
